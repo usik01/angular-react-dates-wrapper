@@ -1,0 +1,35 @@
+{
+  "name": "angular-react-dates-wrapper",
+  "version": "0.0.2",
+  "dependencies": {
+    "aphrodite": "^2.4.0",
+    "moment": "^2.24.0",
+    "react": "^16.13.1",
+    "react-dates": "^21.8.0",
+    "react-dom": "^16.13.1",
+    "react-with-styles": "^4.1.0",
+    "react-with-styles-interface-aphrodite": "^6.0.1"
+  },
+  "devDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/compiler": "^9.0.7",
+    "@angular/compiler-cli": "^9.0.7",
+    "@angular/core": "^9.0.7",
+    "@angular/forms": "^9.0.7",
+    "@angular/language-service": "^9.0.7",
+    "@angular/platform-browser": "^9.0.7",
+    "@angular/platform-browser-dynamic": "^9.0.7",
+    "@types/node": "^13.9.3",
+    "@types/react": "^16.9.25",
+    "@types/react-dates": "^17.1.10",
+    "@types/react-dom": "^16.9.5",
+    "awesome-typescript-loader": "^5.2.1",
+    "copyfiles": "^2.2.0",
+    "core-js": "^3.6.4",
+    "rxjs": "^6.5.4",
+    "zone.js": "^0.10.3"
+  },
+  "scripts": {
+    "library:build": "npm run angular-react-dates-wrapper:build"
+  }
+}
