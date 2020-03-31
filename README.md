@@ -1,6 +1,10 @@
-# Test5
+# Angular react dates wrapper
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+
+##npm library
+
+npm install angular-react-dates-wrapper
 
 ## Development server
 
