@@ -17,7 +17,17 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-react-dates-wrapper": [
+        "dist/angular-react-dates-wrapper/angular-react-dates-wrapper",
+        "dist/angular-react-dates-wrapper"
+      ],
+      "angular-react-dates": [
+        "dist/angular-react-dates/angular-react-dates",
+        "dist/angular-react-dates"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
