@@ -135,6 +135,10 @@ export class DateRangePickerWrapper extends React.Component<any, any> {
       monthFormat: this.props.monthFormat,
       phrases: this.props.phrases
     };
+    if (this.props.locale) {
+      const moment = moment_;
+      moment.locale(this.props.locale);
+    }
     return React.createElement(DateRangePicker, conf);
   }
 }
