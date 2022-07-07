@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "dependencies": {
     "aphrodite": "^2.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.13.1",
     "react-dates": "^21.8.0",
     "react-dom": "^16.13.1",
